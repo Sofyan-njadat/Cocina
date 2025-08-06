@@ -1,5 +1,3 @@
-# Cocina
-
 # Cocina 🍽️
 
 **Cocina** is a full-featured chef booking platform that connects clients with professional chefs for event-based food services. It was developed to streamline the organization of catering activities through a smart, user-friendly digital system.
